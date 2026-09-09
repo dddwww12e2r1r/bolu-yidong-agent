@@ -24,10 +24,10 @@
 需要 Python 3.10+：
 
 ```bash
-python agent.py --port 8002
+python agent.py --port 8016
 ```
 
-浏览器打开：`http://127.0.0.1:8002`
+浏览器打开：`http://127.0.0.1:8016/`
 
 ## 说明
 
